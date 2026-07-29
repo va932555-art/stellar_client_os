@@ -59,3 +59,6 @@ Cargo.lock
 # Local issue tracking / scratch notes
 issues/
 .claude
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
